@@ -9,6 +9,7 @@ bool loadMedia();
 void close();
 bool generateMap(const std::string& filename);
 bool randomMap = false;
+
 /*
  *  Game of life implementation using SDL2 in C++
  *  Press space to move forward one-step
